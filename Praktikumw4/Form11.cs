@@ -31,7 +31,6 @@ namespace Praktikumw4
             this.Hide();
             myForm.ShowDialog();
             this.Close();
-
         }
 
         private void button_Nextdata_Click(object sender, EventArgs e)
